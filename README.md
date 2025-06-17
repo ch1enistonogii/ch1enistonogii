@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @ch1enistonogii
+<h1 align="center">Привет! Я — roma.png 👋</h1>
 
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=F79333&random=false&width=435&lines=PROJECT+ROUT)](https://git.io/typing-svg)
+### 📌 Обо мне
 
+- 📬 Telegram: [ch1enistonogii](https://t.me/ch1enistonogii)
+- 🤖 Бот: [DenDenVPN](https://t.me/DenDenVPNbot)
 
-<!---
-ch1enistonogii/ch1enistonogii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💻 Стек
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ch1enistonogii&show_icons=true&theme=tokyonight" />
+</p>
